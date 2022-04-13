@@ -1,0 +1,112 @@
+header img {
+    height: 60px;
+    margin: 30px 10px;
+    margin-bottom: 0;
+    
+}
+header h1, p{
+    display:block;
+    padding: 8px;
+    
+}
+header{
+    margin: 30px;
+}
+header h1{
+    padding-top: 0;
+}
+main{
+    display: block;
+    margin: 18px;
+    padding: 18px;
+}
+.first{
+    display: block;
+    /* background-image: url(https://sm.mashable.com/t/mashable_sea/article/u/unpreceden/unprecedented-picture-of-the-sun-just-captured-by-stellar-sp_e6cg.1248.jpg);
+    background-repeat: no-repeat; */
+    border-radius: 0.2rem;
+    margin: 8px;
+    padding: 10px 30px;
+    background-color: rgb(234, 165, 165);
+    height: 300px;
+    width: 80%;
+}
+main h1{
+    text-align: center;
+    color: white;
+    margin-top: 40%;
+}
+.second{
+    display: block;
+    /* background-image: url(https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat; */
+    border-radius: 0.2rem;
+    margin: 8px;
+    padding: 10px 30px;
+    background-color:rgb(204, 137, 204);
+    height: 300px;
+    width: 80%;
+}
+.third{
+    display: block;
+    /* background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1217538342.png?crop=0.662xw:1.00xh;0.173xw,0&resize=640:*);
+    background-repeat: no-repeat; */
+    border-radius: 0.2rem;
+    margin: 8px;
+    padding: 10px 30px;
+    background-color: rgb(145, 145, 225);
+    height: 300px;
+    width: 80%;
+}
+.fourth {
+    display: block;
+    /* background-image: url(https://static01.nyt.com/images/2018/10/04/magazine/04blackhole1/04blackhole1-articleLarge-v3.jpg?quality=75&auto=webp&disable=upscale);
+    background-repeat: no-repeat; */
+    border-radius: 0.2rem;
+    margin: 8px;
+    padding: 10px 30px;
+    background-color: pink;
+    height: 300px;
+    width: 80%;
+}
+footer a{
+    text-decoration: none;
+    border-style: solid;
+    border-color: gray;
+    color: gray;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+}
+footer{
+    background-color: #e5e2e2;
+    height: 550px;
+    margin: 30px;
+    border-radius: 0.2rem
+}
+footer h3, a {
+    margin: 20px 30px;
+    padding-top: 10px;
+    color: rgb(79, 78, 78);
+}
+footer p{
+    color: rgb(191, 188, 188);
+   
+}
+
+table, td{
+ margin: 20px ;
+ padding: 12px;
+}
+
+footer div {
+    text-align: center;
+    margin: 10px 60px;
+    height: 40px;
+    background-color: grey;
+    border-radius: 0.1rem;
+}
+@media screen and (min-width:768px){
+    
+}
+
